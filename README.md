@@ -91,8 +91,8 @@ plt.show()
 ```
 
 ## Output:
+![1 1](https://github.com/Swathika28/Experiment-6---Heart-attack-prediction-using-MLP/assets/95024854/d41578f0-9488-44b4-9e23-475d454be6af)
 
-![111](./ss1.png)
 
 ## Result:
 
